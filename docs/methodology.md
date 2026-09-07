@@ -1,7 +1,7 @@
 # 實驗方法
 ## 1.說明
 我的的實驗分兩階段第一階段:已知道具磨損會影響到工件良率，所以是利用第一段程式的跟四種的刀具損耗程度來去檢測cnc在切削時產生的振動以及cnc的切削參數來去做紀錄。第二階段:振動數據利用第三方的網站來去訓練ai訓練完後再載入第二段程式來去做檢測。
-![標題](img/你的段落文字1.png)
+![標題](images/experiment-flow.png)
 
 
 
@@ -33,14 +33,14 @@
 
 ### 切削圖檔[毛胚料圖檔.ipt](3D圖檔/毛胚料圖檔.ipt)
 ### 切削路徑
-![alt text](gif/切削圖.gif)
+![alt text](images/cutting-path.gif)
 
 
 
 ## 4.實驗條件
 
 ### sensor擺放位子
-![alt text](img/電路板位子圖.jpg)
+![alt text](images/sensor-placement.jpg)
 
 ```
 print()
